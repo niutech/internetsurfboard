@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\webview.o
+./debug\webpage.o
+./debug\lineedit.o
+./debug\tabbar.o
+./debug\bookmarks.o
+./debug\networkaccessmanager.o
+./debug\moc_mainwindow.o
+./debug\moc_webview.o
+./debug\moc_webpage.o
+./debug\moc_lineedit.o
+./debug\moc_tabbar.o
+./debug\moc_bookmarks.o
+./debug\moc_networkaccessmanager.o
+);

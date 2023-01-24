@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\webview.o
+./release\webpage.o
+./release\lineedit.o
+./release\tabbar.o
+./release\bookmarks.o
+./release\networkaccessmanager.o
+./release\moc_mainwindow.o
+./release\moc_webview.o
+./release\moc_webpage.o
+./release\moc_lineedit.o
+./release\moc_tabbar.o
+./release\moc_bookmarks.o
+./release\moc_networkaccessmanager.o
+);
